@@ -30,6 +30,9 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 ### Recent activites
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#62](https://github.com/BrunnerLivio/brunnerlivio/issues/62) in [BrunnerLivio/brunnerlivio](https://github.com/BrunnerLivio/brunnerlivio)
+2. 🗣 Commented on [#19](https://github.com/WeAreMahsaAmini/FreeInternet/issues/19) in [WeAreMahsaAmini/FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet)
+3. ❗️ Opened issue [#1](https://github.com/alxnull/vscode-smallbasic/issues/1) in [alxnull/vscode-smallbasic](https://github.com/alxnull/vscode-smallbasic)
 <!--END_SECTION:activity-->
 
 ## My code stats 👨‍💻
