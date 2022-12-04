@@ -22,7 +22,7 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 ## My Github stats 📈
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=dracula)](https://github.com/alialmasi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact&theme=dracula)](https://github.com/alialmasi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=dracula)](https://github.com/alialmasi)
 
 [![](https://github-profile-trophy.vercel.app/?username=alialmasi&margin-w=10&margin-h=5&column=3&theme=dracula)](https://github.com/alialmasi)
 
