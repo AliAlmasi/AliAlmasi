@@ -6,7 +6,7 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 ## Links to me 🔗
 
-[![Gmail Badge](https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white&link=https://github.com/alialmasi)](https://github.com/alialmasi)
+[![Gmail Badge](https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&link=mailto:a710almasi@gmail.com)](mailto:a710almasi@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/a710almasi)](https://twitter.com/a710almasi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/alialmasi)](https://linkedin.com/in/alialmasi)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white&link=https://t.me/al1almasi)](https://t.me/al1almasi)
@@ -28,10 +28,13 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=alialmasi)](https://github.com/alialmasi)
 
+### Recent activites
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## My code stats 👨‍💻
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 [repo-pin]: https://github-readme-stats.vercel.app/api/pin/?username=alialmasi&repo=alialmasi
