@@ -126,4 +126,4 @@ C#                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### If you liked my profile, please give it an ⭐
 
-[![alialmasi Repo](https://github-readme-stats.vercel.app/api/pin/?username=alialmasi&repo=alialmasi)](https://github.com/alialmasi/alialmasi)
+[![alialmasi Repo](https://github-readme-stats.vercel.app/api/pin/?username=alialmasi&repo=alialmasi&theme=dracula)](https://github.com/alialmasi/alialmasi)
