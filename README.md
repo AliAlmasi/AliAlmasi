@@ -1,6 +1,6 @@
-# Hey, How you doin'? 😉
+# Hey, How you doin'? <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width=30>
 
-My name is Ali 👋, I'm a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
+My name is Ali 🤠, I'm a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
 
 If you’d like to get in touch, you can simply run `npx alialmasi` or
 
