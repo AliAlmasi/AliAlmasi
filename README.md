@@ -23,18 +23,20 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&&logo=css3&logoColor=white)](https://github.com/alialmasi)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&&logo=javascript&logoColor=white)](https://github.com/alialmasi)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&&logo=php&logoColor=white)](https://github.com/alialmasi)
+[![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/alialmasi)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&&logo=npm&logoColor=white)](https://github.com/alialmasi)
 [![GitHub](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&&logo=git&logoColor=white)](https://github.com/alialmasi)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)](https://github.com/alialmasi)
 
+
 ## My Github stats 📈
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=dracula)](https://github.com/alialmasi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=dracula)](https://github.com/alialmasi)
+<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=dracula" height=180em></a>
+<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=dracula" height=180em></a>
+<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=a710almasi&layout=compact&theme=dracula&range=all_time" height="180em"></a>
+<a href='https://github.com/alialmasi'><img src="https://github-profile-trophy.vercel.app/?username=alialmasi&margin-w=5&margin-h=5&column=3&theme=dracula"></a>
 
-[![](https://github-profile-trophy.vercel.app/?username=alialmasi&margin-w=10&margin-h=5&column=3&theme=dracula)](https://github.com/alialmasi)
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=alialmasi)](https://github.com/alialmasi)
+[![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falialmasi%2Falialmasi&count_bg=%23000&title_bg=%23171717&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://github.com/alialmasi) [![wakatime](https://wakatime.com/badge/user/42515572-c36c-44b6-9997-0a755ff94018.svg)](https://wakatime.com/@a710almasi) [![GitHub followers](https://img.shields.io/github/followers/alialmasi)](https://github.com/alialmasi)
 
 ### Recent activites
 <!--START_SECTION:activity-->
