@@ -14,10 +14,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROFILE_VIEWS: FALSE
           SHOW_UPDATED_DATE: TRUE
           UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M"
           SHOW_LINES_OF_CODE: TRUE
           SHOW_TIMEZONE: FALSE
+          SHOW_SHORT_INFO: FALSE
           SHOW_LOC_CHART: FALSE
           IGNORED_REPOS: ""
           SYMBOL_VERSION: 3
