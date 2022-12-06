@@ -1,3 +1,7 @@
+<div align='center'>
+<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2700&pause=750&color=7BF9FF&background=31313195&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+designer;Rookie+software+developer"></a>
+</div>
+
 # Hey, How you doin'? <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width=30>
 
 My name is Ali 🤠, I'm a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
@@ -19,14 +23,25 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 ## Technologies I use ⚙️
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&&logo=html5&logoColor=white)](https://github.com/alialmasi)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&&logo=css3&logoColor=white)](https://github.com/alialmasi)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&&logo=javascript&logoColor=white)](https://github.com/alialmasi)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&&logo=php&logoColor=white)](https://github.com/alialmasi)
-[![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/alialmasi)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&&logo=html5&logoColor=white)](https://github.com/alialmasi)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&&logo=css3&logoColor=white)](https://github.com/alialmasi)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&&logo=javascript&logoColor=white)](https://github.com/alialmasi)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&&logo=sass&logoColor=white)](https://github.com/alialmasi)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&&logo=tailwindcss&logoColor=white)](https://github.com/alialmasi)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&&logo=python&logoColor=white)](https://github.com/alialmasi)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&&logo=django&logoColor=white)](https://github.com/alialmasi)
+[![Java](https://img.shields.io/badge/-Java-517f9d?style=for-the-badge&&logo=java&logoColor=white)](https://github.com/alialmasi)
+[![PHP](https://img.shields.io/badge/-PHP-242938?style=for-the-badge&&logo=php&logoColor=white)](https://github.com/alialmasi)
+[![C#](https://img.shields.io/badge/c%23-953cad.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/alialmasi)
+[![C++](https://img.shields.io/badge/c%2B%2B-00599c.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/alialmasi)
+[![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/alialmasi)
+[![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/alialmasi)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&&logo=npm&logoColor=white)](https://github.com/alialmasi)
-[![GitHub](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&&logo=git&logoColor=white)](https://github.com/alialmasi)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)](https://github.com/alialmasi)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&&logo=docker&logoColor=white)](https://github.com/alialmasi)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&&logo=git&logoColor=white)](https://github.com/alialmasi)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://github.com/alialmasi)
+[![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/alialmasi)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/alialmasi)
 
 
 ## My Github stats 📈
@@ -110,6 +125,12 @@ C#                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 05/12/2022 15:36 UTC
 <!--END_SECTION:waka-->
 
-### If you liked my profile, please give it an ⭐
+<details close="true">
+  <summary><b>Github Map</b></summary>
+ [![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/alialmasi)
+</details>
 
-[![alialmasi Repo](https://github-readme-stats.vercel.app/api/pin/?username=alialmasi&repo=alialmasi&theme=dracula)](https://github.com/alialmasi/alialmasi)
+### If you liked my profile, please give it an ⭐
+<div align="center">
+<a href="https://github.com/alialmasi"><img src="https://avatars.githubusercontent.com/u/87055424" width=48></a>
+</div 
