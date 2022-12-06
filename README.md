@@ -126,8 +126,8 @@ C#                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <details close="true">
-  <summary><b>Github Map</b></summary>
- [![](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/alialmasi)
+  <summary><b>Github Map</b></summary><div align="center"
+ <a href="https://github.com/alialmasi"><img src="https://raw.githubusercontent.com/AliAlmasi/AliAlmasi/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
 </details>
 
 ### If you liked my profile, please give it an ⭐
