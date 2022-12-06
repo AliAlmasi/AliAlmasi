@@ -40,7 +40,7 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&&logo=docker&logoColor=white)](https://github.com/alialmasi)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&&logo=git&logoColor=white)](https://github.com/alialmasi)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://github.com/alialmasi)
-[![Atom](https://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/alialmasi)
+[![Atom](https://img.shields.io/badge/-Atom-75c687?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/alialmasi)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/alialmasi)
 
 
