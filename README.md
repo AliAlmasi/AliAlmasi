@@ -1,8 +1,8 @@
 <div align='center'>
-<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2700&pause=750&color=7BF9FF&background=31313195&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+designer;Rookie+software+developer"></a>
+<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2700&pause=750&color=fe6e96&background=282a36&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+designer;Rookie+software+developer"></a>
 </div>
 
-# Hey, How you doin'? <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width=30>
+# Hey, How you doin'? <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width=48>
 
 My name is Ali 🤠, I'm a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
 
