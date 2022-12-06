@@ -130,7 +130,9 @@ C#                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  <a href="https://github.com/alialmasi"><img src="https://raw.githubusercontent.com/AliAlmasi/AliAlmasi/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
 </details>
 
-### If you liked my profile, please give it an ⭐
+### If you liked my profile, please give it an <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/star_2b50.png" width=30>
 <div align="center">
 <a href="https://github.com/alialmasi"><img src="https://avatars.githubusercontent.com/u/87055424" width=48></a>
+ 
+<a href="https://github.com/alialmasi"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/red-heart_2764-fe0f.png" width=30></a>
 </div 
