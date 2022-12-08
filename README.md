@@ -136,4 +136,4 @@ C#                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <a href="https://github.com/alialmasi"><img src="https://avatars.githubusercontent.com/u/87055424" width=48></a>
  
 <a href="https://github.com/alialmasi"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/red-heart_2764-fe0f.png" width=30></a>
-</div 
+</div>
