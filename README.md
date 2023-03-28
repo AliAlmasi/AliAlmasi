@@ -1,5 +1,5 @@
 <div align='center'>
-<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2700&pause=750&color=fe6e96&background=282a36&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+designer;Rookie+software+developer"></a>
+<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&duration=2700&pause=750&color=fe6e96&background=282a36&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+designer;Rookie+software+developer"></a>
 </div>
 
 # Hey, How you doin'? <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width=48>
