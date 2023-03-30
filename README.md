@@ -2,7 +2,7 @@
 <a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&duration=2700&pause=750&color=fe6e96&background=282a36&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+developer;Rookie+software+developer"></a>
 </div>
 
-# Hey, How you doin'? <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width=48>
+# Hey, How you doin'? 👋
 
 My name is Ali 🤠, I'm a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
 
@@ -130,9 +130,9 @@ PHP                      2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  <a href="https://github.com/alialmasi"><img src="https://raw.githubusercontent.com/AliAlmasi/AliAlmasi/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
 </details>
 
-### If you liked my profile, please give it an <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/star_2b50.png" width=30>
+### If you liked my profile, please give it an ⭐
 <div align="center">
 <a href="https://github.com/alialmasi"><img src="https://avatars.githubusercontent.com/u/87055424" width=48></a>
  
-<a href="https://github.com/alialmasi"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/red-heart_2764-fe0f.png" width=30></a>
+❤️
 </div>
