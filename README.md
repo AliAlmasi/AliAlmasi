@@ -55,9 +55,9 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 ### Recent activites
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Azelliott/escape-from-amsterdam/issues/1) in [Azelliott/escape-from-amsterdam](https://github.com/Azelliott/escape-from-amsterdam)
-2. ❗️ Closed issue [#4997](https://github.com/bitwarden/clients/issues/4997) in [bitwarden/clients](https://github.com/bitwarden/clients)
-3. 🗣 Commented on [#4997](https://github.com/bitwarden/clients/issues/4997) in [bitwarden/clients](https://github.com/bitwarden/clients)
+1. 🗣 Commented on [#151](https://github.com/MHSanaei/3x-ui/issues/151) in [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
+2. ❗️ Opened issue [#1](https://github.com/Azelliott/escape-from-amsterdam/issues/1) in [Azelliott/escape-from-amsterdam](https://github.com/Azelliott/escape-from-amsterdam)
+3. ❗️ Closed issue [#4997](https://github.com/bitwarden/clients/issues/4997) in [bitwarden/clients](https://github.com/bitwarden/clients)
 <!--END_SECTION:activity-->
 
 ## My code stats 👨‍💻
