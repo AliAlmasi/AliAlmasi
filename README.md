@@ -13,7 +13,7 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/a710almasi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alialmasi)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/al1almasi)
-[![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](www.coffeete.ir/alialmasi)
+[![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](https://www.coffeete.ir/alialmasi)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=Reddit&logoColor=white)](https://reddit.com/user/alialmasi710)
 [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-F58025?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/19498547/alialmasi)
 [![Medium](https://img.shields.io/badge/Medium-000?logo=Medium&logoColor=white)](https://medium.com/@a710almasi)
