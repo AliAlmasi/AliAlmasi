@@ -136,7 +136,5 @@ Shell                    2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### If you liked my profile, please give it an ⭐
 <div align="center">
-<a href="https://github.com/alialmasi"><img src="https://avatars.githubusercontent.com/u/87055424" width=48></a>
- 
 ❤️
 </div>
