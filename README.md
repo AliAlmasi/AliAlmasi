@@ -40,12 +40,13 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 [![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&&logo=typescript&logoColor=white)](https://github.com/alialmasi)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&&logo=webpack&logoColor=333)](https://github.com/alialmasi)
 
-## Softwares I work on ⌨️
+## Softwares I work on 🖥️
 
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android-studio&logoColor=white)](https://github.com/alialmasi)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/alialmasi)
 [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/alialmasi)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://github.com/alialmasi)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=white)](https://github.com/alialmasi)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/alialmasi)
 
 
