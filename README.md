@@ -61,9 +61,9 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 ### Recent activites
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/yebekhe/TelegramV2rayCollector/issues/15) in [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
-2. 🗣 Commented on [#152](https://github.com/MHSanaei/3x-ui/issues/152) in [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
-3. 🗣 Commented on [#152](https://github.com/MHSanaei/3x-ui/issues/152) in [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
+1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/windows-setup-anim/pull/1) in [AliAlmasi/windows-setup-anim](https://github.com/AliAlmasi/windows-setup-anim)
+2. 💪 Opened PR [#1](https://github.com/AliAlmasi/windows-setup-anim/pull/1) in [AliAlmasi/windows-setup-anim](https://github.com/AliAlmasi/windows-setup-anim)
+3. 🔒 Closed issue [#53](https://github.com/4xmen/Get-Github-Achievements/issues/53) in [4xmen/Get-Github-Achievements](https://github.com/4xmen/Get-Github-Achievements)
 <!--END_SECTION:activity-->
 
 ## My code stats 👨‍💻
