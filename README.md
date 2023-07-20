@@ -61,9 +61,9 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 ### Recent activites
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/windows-setup-anim/pull/1) in [AliAlmasi/windows-setup-anim](https://github.com/AliAlmasi/windows-setup-anim)
-2. 💪 Opened PR [#1](https://github.com/AliAlmasi/windows-setup-anim/pull/1) in [AliAlmasi/windows-setup-anim](https://github.com/AliAlmasi/windows-setup-anim)
-3. 🔒 Closed issue [#53](https://github.com/4xmen/Get-Github-Achievements/issues/53) in [4xmen/Get-Github-Achievements](https://github.com/4xmen/Get-Github-Achievements)
+1. 🔒 Closed issue [#633](https://github.com/LSPosed/MagiskOnWSALocal/issues/633) in [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
+2. ❗ Opened issue [#633](https://github.com/LSPosed/MagiskOnWSALocal/issues/633) in [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
+3. 🗣 Commented on [#54](https://github.com/Simizfo/WSATools/issues/54#issuecomment-1642404119) in [Simizfo/WSATools](https://github.com/Simizfo/WSATools)
 <!--END_SECTION:activity-->
 
 ## My code stats 👨‍💻
