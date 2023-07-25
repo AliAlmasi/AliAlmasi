@@ -61,9 +61,9 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 ### Recent activites
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4997](https://github.com/bitwarden/clients/issues/4997#issuecomment-1646803609) in [bitwarden/clients](https://github.com/bitwarden/clients)
-2. 🔒 Closed issue [#633](https://github.com/LSPosed/MagiskOnWSALocal/issues/633) in [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
-3. ❗ Opened issue [#633](https://github.com/LSPosed/MagiskOnWSALocal/issues/633) in [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
+1. ❗ Opened issue [#2](https://github.com/sepsoh/crawat/issues/2) in [sepsoh/crawat](https://github.com/sepsoh/crawat)
+2. 🗣 Commented on [#4997](https://github.com/bitwarden/clients/issues/4997#issuecomment-1646803609) in [bitwarden/clients](https://github.com/bitwarden/clients)
+3. 🔒 Closed issue [#633](https://github.com/LSPosed/MagiskOnWSALocal/issues/633) in [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
 <!--END_SECTION:activity-->
 
 ## My code stats 👨‍💻
