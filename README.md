@@ -4,9 +4,9 @@
 
 # Hey, How you doin'? 👋
 
-My name is Ali 🤠, I'm a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
+I am Ali 🤠, a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
 
-If you’d like to get in touch, you can simply run `npx alialmasi` or
+If you’d like to get in touch, you can run `npx alialmasi` or
 
 ## Links to me 🔗
 
@@ -54,19 +54,19 @@ If you’d like to get in touch, you can simply run `npx alialmasi` or
 
 <a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=dracula" height=180em></a>
 <a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=dracula" height=180em></a>
-<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=a710almasi&layout=compact&theme=dracula&range=all_time" height="180em"></a>
-<a href='https://github.com/alialmasi'><img src="https://github-profile-trophy.vercel.app/?username=alialmasi&margin-w=5&margin-h=5&column=3&theme=dracula"></a>
+<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=a710almasi&layout=compact&theme=dracula&range=all_time" height="200em"></a>
+<a href='https://github.com/alialmasi'><img src="https://github-profile-trophy.vercel.app/?username=alialmasi&margin-w=5&margin-h=5&column=4&theme=dracula"></a>
 
 [![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falialmasi%2Falialmasi&count_bg=%23000&title_bg=%23171717&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://github.com/alialmasi) [![wakatime](https://wakatime.com/badge/user/42515572-c36c-44b6-9997-0a755ff94018.svg)](https://wakatime.com/@a710almasi) [![GitHub followers](https://img.shields.io/github/followers/alialmasi)](https://github.com/alialmasi)
 
-### Recent activites
+### Recent activities
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/imdanieldev/imdanieldev.github.io/pull/1) in [imdanieldev/imdanieldev.github.io](https://github.com/imdanieldev/imdanieldev.github.io)
 2. 🔒 Closed issue [#1](https://github.com/Azelliott/escape-from-amsterdam/issues/1) in [Azelliott/escape-from-amsterdam](https://github.com/Azelliott/escape-from-amsterdam)
 3. 🔒 Closed issue [#2](https://github.com/sepsoh/crawat/issues/2) in [sepsoh/crawat](https://github.com/sepsoh/crawat)
 <!--END_SECTION:activity-->
 
-## My code stats 👨‍💻
+## My coding stats 👨‍💻
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2035%20mins-blue)
@@ -136,7 +136,7 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  <a href="https://github.com/alialmasi"><img src="https://raw.githubusercontent.com/AliAlmasi/AliAlmasi/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
 </details>
 
-### If you liked my profile, please give it an ⭐
+### If you liked my profile, [please give it an ⭐](https://github.com/AliAlmasi/AliAlmasi)
 <div align="center">
-❤️
+<h5>Made with ❤️ & ⌨️</h5>
 </div>
