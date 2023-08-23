@@ -61,9 +61,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/imdanieldev/imdanieldev.github.io/pull/1) in [imdanieldev/imdanieldev.github.io](https://github.com/imdanieldev/imdanieldev.github.io)
-2. 🔒 Closed issue [#1](https://github.com/Azelliott/escape-from-amsterdam/issues/1) in [Azelliott/escape-from-amsterdam](https://github.com/Azelliott/escape-from-amsterdam)
-3. 🔒 Closed issue [#2](https://github.com/sepsoh/crawat/issues/2) in [sepsoh/crawat](https://github.com/sepsoh/crawat)
+1. 🗣 Commented on [#9363](https://github.com/simple-icons/simple-icons/issues/9363#issuecomment-1688826695) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗ Opened issue [#9363](https://github.com/simple-icons/simple-icons/issues/9363) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#1](https://github.com/imdanieldev/imdanieldev.github.io/pull/1) in [imdanieldev/imdanieldev.github.io](https://github.com/imdanieldev/imdanieldev.github.io)
 <!--END_SECTION:activity-->
 
 ## My coding stats 👨‍💻
