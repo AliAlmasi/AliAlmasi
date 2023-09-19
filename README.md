@@ -61,9 +61,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AliAlmasi/vless-cf-worker/issues/1#issuecomment-1721844581) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-2. 🗣 Commented on [#9363](https://github.com/simple-icons/simple-icons/issues/9363#issuecomment-1698295972) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#9363](https://github.com/simple-icons/simple-icons/issues/9363#issuecomment-1688826695) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#276](https://github.com/jadjoubran/codetogo.io/issues/276#issuecomment-1724598967) in [jadjoubran/codetogo.io](https://github.com/jadjoubran/codetogo.io)
+2. ❗ Opened issue [#326](https://github.com/jadjoubran/codetogo.io/issues/326) in [jadjoubran/codetogo.io](https://github.com/jadjoubran/codetogo.io)
+3. 🗣 Commented on [#1](https://github.com/AliAlmasi/vless-cf-worker/issues/1#issuecomment-1721844581) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
 <!--END_SECTION:activity-->
 
 ## My coding stats 👨‍💻
