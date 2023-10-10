@@ -45,9 +45,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#422](https://github.com/tapio/live-server/issues/422) in [tapio/live-server](https://github.com/tapio/live-server)
-2. 🗣 Commented on [#276](https://github.com/jadjoubran/codetogo.io/issues/276#issuecomment-1724598967) in [jadjoubran/codetogo.io](https://github.com/jadjoubran/codetogo.io)
-3. ❗ Opened issue [#326](https://github.com/jadjoubran/codetogo.io/issues/326) in [jadjoubran/codetogo.io](https://github.com/jadjoubran/codetogo.io)
+1. ❗ Opened issue [#35](https://github.com/shvchk/fallout-grub-theme/issues/35) in [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme)
+2. ❗ Opened issue [#422](https://github.com/tapio/live-server/issues/422) in [tapio/live-server](https://github.com/tapio/live-server)
+3. 🗣 Commented on [#276](https://github.com/jadjoubran/codetogo.io/issues/276#issuecomment-1724598967) in [jadjoubran/codetogo.io](https://github.com/jadjoubran/codetogo.io)
 <!--END_SECTION:activity-->
 
 ## My coding stats 👨‍💻
