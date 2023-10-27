@@ -1,10 +1,10 @@
 <div align='center'>
-<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=28&duration=2700&pause=750&color=fe6e96&background=282a36&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+developer;Rookie+software+developer"></a>
+<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&color=fe6e96&background=282a36&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Beginner+web+developer;Rookie+software+developer"></a>
 </div>
 
 # Hey, How you doin'? 👋
 
-I am Ali 🤠, a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
+I'm Ali 🤠, a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
 
 If you’d like to get in touch, you can run `npx alialmasi` or
 
