@@ -27,12 +27,11 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 [![C#](https://img.shields.io/badge/c%23-953cad.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/alialmasi)
 [![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/alialmasi)
 
-## Softwares I work on 🖥️
+## Softwares I work with 🖥️
 
-[![VSCodium](https://img.shields.io/badge/-VSCodium-007ACC?style=for-the-badge&logo=vscodium&logoColor=white)](https://github.com/alialmasi)
+[![VS Code](https://img.shields.io/badge/-VSCodium-007ACC?style=for-the-badge&logo=vscode&logoColor=white)](https://github.com/alialmasi/vscode-config)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/alialmasi)
 [![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/alialmasi)
-[![WebStorm](https://img.shields.io/badge/WebStorm-087CFA?style=for-the-badge&logo=webstorm&logoColor=white)](https://github.com/alialmasi)
 
 ## My Github stats 📈
 
