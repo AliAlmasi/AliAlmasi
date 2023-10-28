@@ -14,7 +14,7 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/a710almasi)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/al1almasi)
 [![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](https://www.daramet.com/alialmasi)
-[![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=codepen)](https://codepen.io/alialmasi)
+[![Codepen](https://img.shields.io/badge/Codepen-000?&logo=codepen)](https://codepen.io/alialmasi)
 [![dev.to](https://img.shields.io/badge/DEV.to-0a0a0a?&logo=dev.to)](https://dev.to/alialmasi)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white)](https://www.youtube.com/@al1almasi)
 
@@ -29,9 +29,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 
 ## Softwares I work with 🖥️
 
-[![VS Code](https://img.shields.io/badge/-VSCodium-007ACC?style=for-the-badge&logo=vscode&logoColor=white)](https://github.com/alialmasi/vscode-config)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/alialmasi)
-[![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/alialmasi)
+[![VS Code](https://img.shields.io/badge/Vs%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/alialmasi/vscode-config)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/alialmasi)
+[![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/alialmasi)
 
 ## My Github stats 📈
 
