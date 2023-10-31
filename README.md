@@ -44,9 +44,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
-2. ❗ Opened issue [#15](https://github.com/parchlinux/join-requests/issues/15) in [parchlinux/join-requests](https://github.com/parchlinux/join-requests)
-3. ❗ Opened issue [#35](https://github.com/shvchk/fallout-grub-theme/issues/35) in [shvchk/fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme)
+1. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-1785738982) in [almasi/extension](https://github.com/almasi/extension)
+2. ❗ Opened issue [#1135](https://github.com/v2rayA/v2rayA/issues/1135) in [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA)
+3. ❗ Opened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
 <!--END_SECTION:activity-->
 
 ## My coding stats 👨‍💻
