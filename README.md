@@ -44,9 +44,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-1785738982) in [almasi/extension](https://github.com/almasi/extension)
-2. ❗ Opened issue [#1135](https://github.com/v2rayA/v2rayA/issues/1135) in [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA)
-3. ❗ Opened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
+1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/blog/pull/1) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+2. 💪 Opened PR [#1](https://github.com/AliAlmasi/blog/pull/1) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+3. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-1793376554) in [almasi/extension](https://github.com/almasi/extension)
 <!--END_SECTION:activity-->
 
 ## My coding stats 👨‍💻
