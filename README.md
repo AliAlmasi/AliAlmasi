@@ -44,9 +44,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6895](https://github.com/Fyrd/caniuse/issues/6895#issuecomment-1811497632) in [Fyrd/caniuse](https://github.com/Fyrd/caniuse)
-2. 🚀 Published release [1.0.0](https://github.com/AliAlmasi/newtab/releases/tag/1.0.0) in [AliAlmasi/newtab](https://github.com/AliAlmasi/newtab)
-3. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-1806569185) in [almasi/extension](https://github.com/almasi/extension)
+1. 🎉 Merged PR [#2](https://github.com/AliAlmasi/blog/pull/2) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+2. 💪 Opened PR [#2](https://github.com/AliAlmasi/blog/pull/2) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+3. 🎉 Merged PR [#1](https://github.com/AliAlmasi/blog/pull/1) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
 <!--END_SECTION:activity-->
 
 ## My coding stats 👨‍💻
