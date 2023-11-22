@@ -6,7 +6,7 @@
 
 I'm Ali 🤠, a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
 
-If you’d like to get in touch, you can run `npx alialmasi` or
+If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ## Links to me 🔗
 
@@ -33,7 +33,8 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/alialmasi)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/alialmasi)
 
-## My Github stats 📈
+<details close="true">
+  <summary><h2>My Github stats 📈</h2></summary>
 
 <a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=dracula" height=180em></a>
 <a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=dracula" height=180em></a>
@@ -41,6 +42,8 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 <a href='https://github.com/alialmasi'><img src="https://github-profile-trophy.vercel.app/?username=alialmasi&margin-w=5&margin-h=5&column=4&theme=dracula"></a>
 
 [![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falialmasi%2Falialmasi&count_bg=%23000&title_bg=%23171717&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://github.com/alialmasi) [![wakatime](https://wakatime.com/badge/user/42515572-c36c-44b6-9997-0a755ff94018.svg)](https://wakatime.com/@a710almasi) [![GitHub followers](https://img.shields.io/github/followers/alialmasi)](https://github.com/alialmasi)
+ 
+</details>
 
 ### Recent activities
 <!--START_SECTION:activity-->
@@ -49,8 +52,9 @@ If you’d like to get in touch, you can run `npx alialmasi` or
 3. 🎉 Merged PR [#1](https://github.com/AliAlmasi/blog/pull/1) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
 <!--END_SECTION:activity-->
 
-## My coding stats 👨‍💻
 
+<details close="true">
+  <summary><h2>My coding stats 👨‍💻</h2></summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2052%20mins-blue)
 
@@ -117,8 +121,10 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <details close="true">
-  <summary><b>Github Map</b></summary><div align="center"
+  <summary><h3>My Gitblock map 🗺️</h3></summary><div align="center"
  <a href="https://github.com/alialmasi"><img src="https://raw.githubusercontent.com/AliAlmasi/AliAlmasi/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
+</details>
+
 </details>
 
 ### If you liked my profile, [please give it an ⭐](https://github.com/AliAlmasi/AliAlmasi)
