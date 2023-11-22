@@ -36,10 +36,8 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
   <summary><h2>My Github stats 📈</h2></summary>
 
-<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=dracula" height=180em></a>
-<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=dracula" height=180em></a>
-<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=a710almasi&layout=compact&theme=dracula&range=all_time" height="200em"></a>
-<a href='https://github.com/alialmasi'><img src="https://github-profile-trophy.vercel.app/?username=alialmasi&margin-w=5&margin-h=5&column=4&theme=dracula"></a>
+<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=one_dark_pro" height=180em></a>
+<a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=one_dark_pro" height=180em></a>
 
 [![Visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falialmasi%2Falialmasi&count_bg=%23000&title_bg=%23171717&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://github.com/alialmasi) [![wakatime](https://wakatime.com/badge/user/42515572-c36c-44b6-9997-0a755ff94018.svg)](https://wakatime.com/@a710almasi) [![GitHub followers](https://img.shields.io/github/followers/alialmasi)](https://github.com/alialmasi)
  
@@ -56,6 +54,7 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
   <summary><h2>My coding stats 👨‍💻</h2></summary>
 <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318.0%20thousand%20lines%20of%20code-blue)
@@ -114,9 +113,6 @@ Shell                    3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.76 % 
 ```
 
-
-
-
  Last Updated on 01/10/2023 03:37 UTC
 <!--END_SECTION:waka-->
 
@@ -129,5 +125,7 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ### If you liked my profile, [please give it an ⭐](https://github.com/AliAlmasi/AliAlmasi)
 <div align="center">
-<h5>Made with ❤️ & ⌨️</h5>
+  
+[![Made with love in Persia](https://madewithlove.now.sh/ir?heart=true&colorA=%23328151&template=plastic&text=Persia)](https://github.com/alialmasi)
+
 </div>
