@@ -53,6 +53,15 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 ### Latest blog posts 📓
 <div align='left'>
 <!-- BLOG-POST-LIST:START -->
+<li><a href='https://al1almasi.ir/blog/blog/avalin-post-farsi/'>اولین پست فارسی<a></li>
+
+<li><a href='https://al1almasi.ir/blog/blog/my-first-post/'>My First Post<a></li>
+
+<li><a href='https://note.al1almasi.ir/rtl8821ce-wireless-card-fix-on-ubuntu'>RTL8821CE Wireless card fix on Ubuntu &lpar;and other Debian/Ubuntu based distros&rpar;<a></li>
+
+<li><a href='https://note.al1almasi.ir/how-to-verify-git-commits'>“How to verify git commits” — Easy guide for beginners<a></li>
+
+<li><a href='https://note.al1almasi.ir/easy-vless-config-with-cf-worker'>Easy VLESS config with CF Worker<a></li>
 <!-- BLOG-POST-LIST:END -->
 </div>
 
