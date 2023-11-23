@@ -1,0 +1,19 @@
+name: Latest blog post workflow update
+on:
+  schedule: # Run workflow automatically
+    - cron: '30 03 * * *' # at 12:00 am IRST
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: "Update this repo's README with latest blog posts"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://note.al1almasi.ir/rss.xml,https://al1almasi.ir/blog/index.xml"
