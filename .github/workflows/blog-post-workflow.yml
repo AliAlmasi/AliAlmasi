@@ -13,7 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in posts
+      - name: Fetching posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://note.al1almasi.ir/rss.xml,https://al1almasi.ir/blog/index.xml"
+          feed_list: "https://note.al1almasi.ir/rss.xml,https://al1almasi.ir/blog/index.xml,https://fa.note.al1almasi.ir/rss.xml"
+          template: "$newline<li><a href='$url'>$title<a></li>$newline"
