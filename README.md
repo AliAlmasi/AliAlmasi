@@ -45,9 +45,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-1823233243) in [almasi/extension](https://github.com/almasi/extension)
-2. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-1823226265) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 🎉 Merged PR [#2](https://github.com/AliAlmasi/blog/pull/2) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+1. 🎉 Merged PR [#4](https://github.com/AliAlmasi/blog/pull/4) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+2. 💪 Opened PR [#4](https://github.com/AliAlmasi/blog/pull/4) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+3. 🎉 Merged PR [#3](https://github.com/AliAlmasi/blog/pull/3) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
