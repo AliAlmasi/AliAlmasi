@@ -45,9 +45,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/AliAlmasi/blog/pull/4) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
-2. 💪 Opened PR [#4](https://github.com/AliAlmasi/blog/pull/4) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
-3. 🎉 Merged PR [#3](https://github.com/AliAlmasi/blog/pull/3) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+1. ❗ Opened issue [#174](https://github.com/nikitasius/Telegraher/issues/174) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
+2. 🎉 Merged PR [#4](https://github.com/AliAlmasi/blog/pull/4) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+3. 💪 Opened PR [#4](https://github.com/AliAlmasi/blog/pull/4) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
