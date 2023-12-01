@@ -45,9 +45,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.3.5](https://github.com/AliAlmasi/npx-alialmasi/releases/tag/2.3.5) in [AliAlmasi/npx-alialmasi](https://github.com/AliAlmasi/npx-alialmasi)
-2. ❗ Opened issue [#174](https://github.com/nikitasius/Telegraher/issues/174) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
-3. 🎉 Merged PR [#4](https://github.com/AliAlmasi/blog/pull/4) in [AliAlmasi/blog](https://github.com/AliAlmasi/blog)
+1. 🗣 Commented on [#271](https://github.com/hakluke/how-to-exit-vim/pull/271#issuecomment-1834067874) in [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim)
+2. 💪 Opened PR [#271](https://github.com/hakluke/how-to-exit-vim/pull/271) in [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim)
+3. 🚀 Published release [2.3.5](https://github.com/AliAlmasi/npx-alialmasi/releases/tag/2.3.5) in [AliAlmasi/npx-alialmasi](https://github.com/AliAlmasi/npx-alialmasi)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
