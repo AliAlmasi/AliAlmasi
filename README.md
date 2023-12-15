@@ -45,9 +45,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/WeAreMahsaAmini/FreeInternet/issues/91#issuecomment-1837641818) in [WeAreMahsaAmini/FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet)
-2. 🗣 Commented on [#271](https://github.com/hakluke/how-to-exit-vim/pull/271#issuecomment-1834067874) in [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim)
-3. 💪 Opened PR [#271](https://github.com/hakluke/how-to-exit-vim/pull/271) in [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim)
+1. 🔒 Closed issue [#422](https://github.com/tapio/live-server/issues/422) in [tapio/live-server](https://github.com/tapio/live-server)
+2. 🗣 Commented on [#91](https://github.com/WeAreMahsaAmini/FreeInternet/issues/91#issuecomment-1837641818) in [WeAreMahsaAmini/FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet)
+3. 🗣 Commented on [#271](https://github.com/hakluke/how-to-exit-vim/pull/271#issuecomment-1834067874) in [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
