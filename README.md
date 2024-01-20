@@ -45,9 +45,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AliAlmasi/vless-cf-worker/issues/1#issuecomment-1872376179) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-2. 🔒 Closed issue [#1](https://github.com/AliAlmasi/vless-cf-worker/issues/1) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-3. 🗣 Commented on [#1](https://github.com/AliAlmasi/vless-cf-worker/issues/1#issuecomment-1872376113) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
+1. 💪 Opened PR [#1](https://github.com/MahanRajabi80/Resume/pull/1) in [MahanRajabi80/Resume](https://github.com/MahanRajabi80/Resume)
+2. 🗣 Commented on [#1](https://github.com/AliAlmasi/vless-cf-worker/issues/1#issuecomment-1872376179) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
+3. 🔒 Closed issue [#1](https://github.com/AliAlmasi/vless-cf-worker/issues/1) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
