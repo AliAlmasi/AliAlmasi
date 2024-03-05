@@ -14,18 +14,19 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/a710almasi)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/al1almasi)
 [![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](https://www.daramet.com/alialmasi)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000?logo=wakatime&logoColor=white)](https://wakatime.com/@a710almasi)
 [![Codepen](https://img.shields.io/badge/Codepen-000?&logo=codepen)](https://codepen.io/alialmasi)
 [![dev.to](https://img.shields.io/badge/DEV.to-0a0a0a?&logo=dev.to)](https://dev.to/alialmasi)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white)](https://www.youtube.com/@al1almasi)
 
 ## Technologies I use ⚙️
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&&logo=css3&logoColor=white)](https://github.com/alialmasi)
-[![JS](https://img.shields.io/badge/JS-f0db4f?style=for-the-badge&&logo=javascript&logoColor=black)](https://github.com/alialmasi)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&&logo=sass&logoColor=white)](https://github.com/alialmasi)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&&logo=php&logoColor=white)](https://github.com/alialmasi)
-[![C#](https://img.shields.io/badge/c%23-953cad.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/alialmasi)
-[![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/alialmasi)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&&logo=css3&logoColor=white)](https://github.com/AliAlmasi?tab=repositories&q=&type=&language=css&sort=)
+[![JS](https://img.shields.io/badge/JS-f0db4f?style=for-the-badge&&logo=javascript&logoColor=black)](https://github.com/AliAlmasi?tab=repositories&q=&type=&language=javascript&sort=)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&&logo=sass&logoColor=white)](https://github.com/alialmasi?tab=repositories&q=&type=&language=sass&sort=)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&&logo=php&logoColor=white)](https://github.com/AliAlmasi?tab=repositories&q=&type=&language=php&sort=)
+[![C#](https://img.shields.io/badge/c%23-953cad.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/AliAlmasi?tab=repositories&q=&type=&language=c%23&sort=)
+[![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/alialmasi?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 
 ## Softwares I work with 🖥️
 
@@ -34,7 +35,7 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/alialmasi)
 
 <details close="true">
-  <summary><h2>My Github stats 📈</h2></summary>
+<summary><h2>My Github stats 📈</h2></summary>
 
 <a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api?username=alialmasi&count_private=true&show_icons=true&theme=one_dark_pro" height=180em></a>
 <a href='https://github.com/alialmasi'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialmasi&layout=compact&theme=one_dark_pro" height=180em></a>
@@ -66,78 +67,12 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 </div>
 
 <details close="true">
-  <summary><h2>My coding stats 👨‍💻</h2></summary>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2056%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-321.3%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.79 % 
-🌆 Daytime                79 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.26 % 
-🌃 Evening                126 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.31 % 
-🌙 Night                  178 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.64 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   70 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.95 % 
-Tuesday                  59 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.13 % 
-Wednesday                51 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.08 % 
-Thursday                 59 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.13 % 
-Friday                   41 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.51 % 
-Saturday                 37 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.49 % 
-Sunday                   73 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               1 hr 42 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   74.02 % 
-HTML                     12 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.16 % 
-JSON                     12 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.98 % 
-CSS                      10 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.84 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 17 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-🐱‍💻 Projects: 
-fetch-json-in-js         2 hrs 17 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs 17 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     18 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.73 % 
-CSS                      13 repos            ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.64 % 
-JavaScript               10 repos            ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.18 % 
-Shell                    4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.27 % 
-TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.64 % 
-```
-
-
-
-
- Last Updated on 05/03/2024 20:58 UTC
-<!--END_SECTION:waka-->
-
-<details close="true">
-  <summary><h3>My Gitblock map 🗺️</h3></summary><div align="center"
- <a href="https://github.com/alialmasi"><img src="https://raw.githubusercontent.com/AliAlmasi/AliAlmasi/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
-</details>
-
+<summary><h3>My Gitblock map 🗺️</h3></summary>
+<div align="center">
+<a href="https://github.com/alialmasi"><img src="https://raw.githubusercontent.com/AliAlmasi/AliAlmasi/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
 </details>
 
 ### If you liked my profile, [please give it an ⭐](https://github.com/AliAlmasi/AliAlmasi)
 <div align="center">
-  
-[![Made with love in Persia](https://madewithlove.now.sh/ir?heart=true&colorA=%23328151&template=plastic&text=Persia)](https://github.com/alialmasi)
 
 </div>
