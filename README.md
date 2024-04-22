@@ -46,9 +46,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/threejs-typescript/pull/1) in [AliAlmasi/threejs-typescript](https://github.com/AliAlmasi/threejs-typescript)
-2. 🗣 Commented on [#2452](https://github.com/dylanaraps/neofetch/issues/2452#issuecomment-2022770053) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-3. ❗ Opened issue [#2452](https://github.com/dylanaraps/neofetch/issues/2452) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+1. 🚀 Published release [Version 1.3.5](https://github.com/AliAlmasi/Notepad/releases/tag/1.3.5.0) in [AliAlmasi/Notepad](https://github.com/AliAlmasi/Notepad)
+2. 🎉 Merged PR [#1](https://github.com/AliAlmasi/threejs-typescript/pull/1) in [AliAlmasi/threejs-typescript](https://github.com/AliAlmasi/threejs-typescript)
+3. 🗣 Commented on [#2452](https://github.com/dylanaraps/neofetch/issues/2452#issuecomment-2022770053) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
