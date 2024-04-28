@@ -46,9 +46,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 2](https://github.com/AliAlmasi/RadixConvertPractice/releases/tag/2.0.0.0) in [AliAlmasi/RadixConvertPractice](https://github.com/AliAlmasi/RadixConvertPractice)
-2. 🚀 Published release [Version 1](https://github.com/AliAlmasi/RadixConvertPractice/releases/tag/1.0.0.0) in [AliAlmasi/RadixConvertPractice](https://github.com/AliAlmasi/RadixConvertPractice)
-3. 🚀 Published release [Version 1.3.5](https://github.com/AliAlmasi/Notepad/releases/tag/1.3.5.0) in [AliAlmasi/Notepad](https://github.com/AliAlmasi/Notepad)
+1. 🚀 Published release [2.1.0.0](https://github.com/AliAlmasi/RadixConvertPractice/releases/tag/2.1.0.0) in [AliAlmasi/RadixConvertPractice](https://github.com/AliAlmasi/RadixConvertPractice)
+2. 🚀 Published release [Version 2](https://github.com/AliAlmasi/RadixConvertPractice/releases/tag/2.0.0.0) in [AliAlmasi/RadixConvertPractice](https://github.com/AliAlmasi/RadixConvertPractice)
+3. 🚀 Published release [Version 1](https://github.com/AliAlmasi/RadixConvertPractice/releases/tag/1.0.0.0) in [AliAlmasi/RadixConvertPractice](https://github.com/AliAlmasi/RadixConvertPractice)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
