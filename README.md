@@ -60,7 +60,7 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 <li><a href='https://note.al1almasi.ir/easy-vless-config-with-cf-worker'>Easy VLESS config with CF Worker<a></li>
 
-<li><a href='https://note.al1almasi.ir/unforce-google-safesearch'>Unforce Google SafeSearch<a></li>
+<li><a href='https://note.al1almasi.ir/unforce-safesearch'>Unforce Google SafeSearch<a></li>
 
 <li><a href='https://note.al1almasi.ir/make-a-separate-space'>Island. Make a separate space for apps you don&#39;t trust enough!<a></li>
 <!-- BLOG-POST-LIST:END -->
