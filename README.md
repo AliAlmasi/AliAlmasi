@@ -54,15 +54,15 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 ### Latest blog posts 📓
 <div align='left'>
 <!-- BLOG-POST-LIST:START -->
+<li><a href='https://fa.note.al1almasi.ir/rtl8821ce-wireless-card-fix-on-ubuntu'>رفع خطای کارت وای‌فای Rtl8821ce در لینوکس دبیان/اوبونتو &lpar;و سایر توزیع‌های مبتنی بر دبیان/اوبونتو&rpar;<a></li>
+
+<li><a href='https://fa.note.al1almasi.ir/easy-vless-config-with-cf-worker'>ساخت آسان کانفیگ وی‌لس با ورکر کلاودفلر<a></li>
+
+<li><a href='https://fa.note.al1almasi.ir/unforce-safesearch'>جستجوی ایمن گوگل را دور بزنید.<a></li>
+
 <li><a href='https://note.al1almasi.ir/rtl8821ce-wireless-card-fix-on-ubuntu'>RTL8821CE Wireless card fix on Ubuntu &lpar;and other Debian/Ubuntu based distros&rpar;<a></li>
 
 <li><a href='https://note.al1almasi.ir/how-to-verify-git-commits'>“How to verify git commits” — Easy guide for beginners<a></li>
-
-<li><a href='https://note.al1almasi.ir/easy-vless-config-with-cf-worker'>Easy VLESS config with CF Worker<a></li>
-
-<li><a href='https://note.al1almasi.ir/unforce-safesearch'>Unforce Google SafeSearch<a></li>
-
-<li><a href='https://note.al1almasi.ir/make-a-separate-space'>Island. Make a separate space for apps you don&#39;t trust enough!<a></li>
 <!-- BLOG-POST-LIST:END -->
 </div>
 
