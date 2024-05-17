@@ -46,9 +46,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AliAlmasi/unforce-safesearch/issues/1#issuecomment-2099405368) in [AliAlmasi/unforce-safesearch](https://github.com/AliAlmasi/unforce-safesearch)
-2. 🔒 Closed issue [#1](https://github.com/AliAlmasi/unforce-safesearch/issues/1) in [AliAlmasi/unforce-safesearch](https://github.com/AliAlmasi/unforce-safesearch)
-3. 🗣 Commented on [#22](https://github.com/aaronryank/fork-bomb/issues/22#issuecomment-2097863304) in [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb)
+1. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-2115150514) in [almasi/extension](https://github.com/almasi/extension)
+2. 🗣 Commented on [#1](https://github.com/AliAlmasi/unforce-safesearch/issues/1#issuecomment-2099405368) in [AliAlmasi/unforce-safesearch](https://github.com/AliAlmasi/unforce-safesearch)
+3. 🔒 Closed issue [#1](https://github.com/AliAlmasi/unforce-safesearch/issues/1) in [AliAlmasi/unforce-safesearch](https://github.com/AliAlmasi/unforce-safesearch)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
