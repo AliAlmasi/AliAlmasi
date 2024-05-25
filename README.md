@@ -46,9 +46,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ### Recent activities on GitHub :octocat:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1294](https://github.com/MatsuriDayo/nekoray/issues/1294) in [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)
-2. 🗣 Commented on [#2](https://github.com/AliAlmasi/vless-cf-worker/issues/2#issuecomment-2125009911) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-3. 🗣 Commented on [#9](https://github.com/MohammadRostamiorg/dnsChanger/pull/9#issuecomment-2123550489) in [MohammadRostamiorg/dnsChanger](https://github.com/MohammadRostamiorg/dnsChanger)
+1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
+2. 💪 Opened PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
+3. ❗ Opened issue [#1294](https://github.com/MatsuriDayo/nekoray/issues/1294) in [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)
 <!--END_SECTION:activity-->
 
 ### Latest blog posts 📓
