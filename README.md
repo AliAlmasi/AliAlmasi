@@ -41,9 +41,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
-2. 💪 Opened PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
-3. ❗ Opened issue [#1294](https://github.com/MatsuriDayo/nekoray/issues/1294) in [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)
+1. 🚀 Published release [1.5.1](https://github.com/AliAlmasi/newtab/releases/tag/1.5.1) in [AliAlmasi/newtab](https://github.com/AliAlmasi/newtab)
+2. 🎉 Merged PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
+3. 💪 Opened PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
 <!--END_SECTION:activity-->
 </details>
 
