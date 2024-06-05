@@ -41,9 +41,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.5.1](https://github.com/AliAlmasi/newtab/releases/tag/1.5.1) in [AliAlmasi/newtab](https://github.com/AliAlmasi/newtab)
-2. 🎉 Merged PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
-3. 💪 Opened PR [#1](https://github.com/AliAlmasi/AliAlmasi/pull/1) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
+1. 🗣 Commented on [#11](https://github.com/MohammadRostamiorg/dnsChanger/issues/11#issuecomment-2148431822) in [MohammadRostamiorg/dnsChanger](https://github.com/MohammadRostamiorg/dnsChanger)
+2. 🗣 Commented on [#11](https://github.com/MohammadRostamiorg/dnsChanger/issues/11#issuecomment-2148049350) in [MohammadRostamiorg/dnsChanger](https://github.com/MohammadRostamiorg/dnsChanger)
+3. 🚀 Published release [1.5.1](https://github.com/AliAlmasi/newtab/releases/tag/1.5.1) in [AliAlmasi/newtab](https://github.com/AliAlmasi/newtab)
 <!--END_SECTION:activity-->
 </details>
 
