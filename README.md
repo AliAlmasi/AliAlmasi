@@ -11,7 +11,7 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 ## Links to me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://linkedin.al1almasi.ir)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/a710almasi)
+[![Twitter](https://img.shields.io/badge/Twitter-000?logo=X&logoColor=white)](https://twitter.com/a710almasi)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://al1almasi.t.me)
 [![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](https://donate.al1almasi.ir)
 [![Codepen](https://img.shields.io/badge/Codepen-000?&logo=codepen)](https://codepen.io/alialmasi)
