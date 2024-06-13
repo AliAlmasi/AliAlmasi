@@ -41,9 +41,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/yebekhe/TelegramV2rayCollector/issues/77#issuecomment-2158971668) in [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
-2. ❗ Opened issue [#77](https://github.com/yebekhe/TelegramV2rayCollector/issues/77) in [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
-3. 🗣 Commented on [#11](https://github.com/MohammadRostamiorg/dnsChanger/issues/11#issuecomment-2148431822) in [MohammadRostamiorg/dnsChanger](https://github.com/MohammadRostamiorg/dnsChanger)
+1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/alialmasi.github.io/pull/1) in [AliAlmasi/alialmasi.github.io](https://github.com/AliAlmasi/alialmasi.github.io)
+2. 💪 Opened PR [#1](https://github.com/AliAlmasi/alialmasi.github.io/pull/1) in [AliAlmasi/alialmasi.github.io](https://github.com/AliAlmasi/alialmasi.github.io)
+3. 🗣 Commented on [#77](https://github.com/yebekhe/TelegramV2rayCollector/issues/77#issuecomment-2158971668) in [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
 <!--END_SECTION:activity-->
 </details>
 
