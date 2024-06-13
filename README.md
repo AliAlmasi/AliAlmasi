@@ -1,5 +1,5 @@
 <div align='center'>
-<a href="https://github.com/alialmasi"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&color=fe6e96&background=282a36&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Junior+web+developer;Proud+Parch+Linux+user+:)"></a>
+<a href="https://al1almasi.ir"><img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&color=81a1c1&background=2e3440&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Junior+web+developer;Proud+Parch+Linux+user+:)"></a>
 </div>
 
 # Hey, How you doin'? 👋
@@ -10,10 +10,10 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 ## Links to me 🔗
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/alialmasi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white)](https://linkedin.al1almasi.ir)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/a710almasi)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/al1almasi)
-[![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](https://daramet.com/alialmasi)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://al1almasi.t.me)
+[![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](https://donate.al1almasi.ir)
 [![Codepen](https://img.shields.io/badge/Codepen-000?&logo=codepen)](https://codepen.io/alialmasi)
 [![WakaTime](https://img.shields.io/badge/WakaTime-23527c?logo=wakatime&logoColor=white)](https://wakatime.com/@a710almasi)
 
