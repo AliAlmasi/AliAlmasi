@@ -16,6 +16,7 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 [![Donate](https://img.shields.io/badge/Donate-7d4533?logo=coffeescript&logoColor=white)](https://donate.al1almasi.ir)
 [![Codepen](https://img.shields.io/badge/Codepen-000?&logo=codepen)](https://codepen.io/alialmasi)
 [![WakaTime](https://img.shields.io/badge/WakaTime-23527c?logo=wakatime&logoColor=white)](https://wakatime.com/@a710almasi)
+[![GPG key](https://img.shields.io/badge/GPG%20Public%20key-0093DD?logo=gnuprivacyguard&logoColor=white)](https://key.al1almasi.ir)
 
 ## Technologies I use
 
