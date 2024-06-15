@@ -42,9 +42,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/alialmasi.github.io/pull/1) in [AliAlmasi/alialmasi.github.io](https://github.com/AliAlmasi/alialmasi.github.io)
-2. 💪 Opened PR [#1](https://github.com/AliAlmasi/alialmasi.github.io/pull/1) in [AliAlmasi/alialmasi.github.io](https://github.com/AliAlmasi/alialmasi.github.io)
-3. 🗣 Commented on [#77](https://github.com/yebekhe/TelegramV2rayCollector/issues/77#issuecomment-2158971668) in [yebekhe/TelegramV2rayCollector](https://github.com/yebekhe/TelegramV2rayCollector)
+1. 🔒 Closed issue [#2](https://github.com/AliAlmasi/vless-cf-worker/issues/2) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
+2. 🗣 Commented on [#2](https://github.com/AliAlmasi/vless-cf-worker/issues/2#issuecomment-2167819364) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
+3. 🔒 Closed issue [#2](https://github.com/AliAlmasi/vless-cf-worker/issues/2) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
 <!--END_SECTION:activity-->
 </details>
 
