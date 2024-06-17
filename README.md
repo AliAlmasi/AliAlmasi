@@ -42,9 +42,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/AliAlmasi/vless-cf-worker/issues/2) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-2. 🗣 Commented on [#2](https://github.com/AliAlmasi/vless-cf-worker/issues/2#issuecomment-2167819364) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-3. 🔒 Closed issue [#2](https://github.com/AliAlmasi/vless-cf-worker/issues/2) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
+1. 🚀 Published release [2024-06-16.beta.1](https://github.com/parchlinuxB/parch-iso-mate/releases/tag/2024-06-16.beta.1) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
+2. 🚀 Published release [2024-6-16](https://github.com/parchlinuxB/parch-iso-mate/releases/tag/2024-6-16) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
+3. 🚀 Published release [Parch MATE](https://github.com/parchlinuxB/parch-iso-mate/releases/tag/2024-6-16.alpha) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
 <!--END_SECTION:activity-->
 </details>
 
