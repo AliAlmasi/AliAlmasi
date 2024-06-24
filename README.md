@@ -42,9 +42,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <details close="true">
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2024-06-16.beta.1](https://github.com/parchlinuxB/parch-iso-mate/releases/tag/2024-06-16.beta.1) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
-2. 🚀 Published release [2024-6-16](https://github.com/parchlinuxB/parch-iso-mate/releases/tag/2024-6-16) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
-3. 🚀 Published release [Parch MATE](https://github.com/parchlinuxB/parch-iso-mate/releases/tag/2024-6-16.alpha) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
+1. 🚀 Published release [Version 2.4](https://github.com/AliAlmasi/RadixConvertPractice/releases/tag/2.4.0.0) in [AliAlmasi/RadixConvertPractice](https://github.com/AliAlmasi/RadixConvertPractice)
+2. 🚀 Published release [Version 2.3](https://github.com/AliAlmasi/RadixConvertPractice/releases/tag/2.3.0.0) in [AliAlmasi/RadixConvertPractice](https://github.com/AliAlmasi/RadixConvertPractice)
+3. 🚀 Published release [2024-06-16.beta.1](https://github.com/parchlinuxB/parch-iso-mate/releases/tag/2024-06-16.beta.1) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
 <!--END_SECTION:activity-->
 </details>
 
