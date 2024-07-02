@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.0](https://github.com/AliAlmasi/SharpPassGen/releases/tag/1.0.0.0) in [AliAlmasi/SharpPassGen](https://github.com/AliAlmasi/SharpPassGen)
-2. 🗣 Commented on [#1](https://github.com/parchlinuxB/parch-iso-mate/issues/1#issuecomment-2197435763) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
-3. 🗣 Commented on [#1](https://github.com/parchlinuxB/parch-iso-mate/issues/1#issuecomment-2196848902) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
+1. 🚀 Published release [Version 1.1](https://github.com/AliAlmasi/SharpPassGen/releases/tag/1.1.0.0) in [AliAlmasi/SharpPassGen](https://github.com/AliAlmasi/SharpPassGen)
+2. 🚀 Published release [Version 1.0](https://github.com/AliAlmasi/SharpPassGen/releases/tag/1.0.0.0) in [AliAlmasi/SharpPassGen](https://github.com/AliAlmasi/SharpPassGen)
+3. 🗣 Commented on [#1](https://github.com/parchlinuxB/parch-iso-mate/issues/1#issuecomment-2197435763) in [parchlinuxB/parch-iso-mate](https://github.com/parchlinuxB/parch-iso-mate)
 <!--END_SECTION:activity-->
 
 </details>
