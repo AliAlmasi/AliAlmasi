@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/AliAlmasi/vless-cf-worker/pull/3#issuecomment-2209470853) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-2. ❌ Closed PR [#3](https://github.com/AliAlmasi/vless-cf-worker/pull/3) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-3. 🚀 Published release [Version 1.1](https://github.com/AliAlmasi/SharpPassGen/releases/tag/1.1.0.0) in [AliAlmasi/SharpPassGen](https://github.com/AliAlmasi/SharpPassGen)
+1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/port-prerouting-tunnel/pull/1) in [AliAlmasi/port-prerouting-tunnel](https://github.com/AliAlmasi/port-prerouting-tunnel)
+2. 🎉 Merged PR [#4](https://github.com/AliAlmasi/vless-cf-worker/pull/4) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
+3. 🗣 Commented on [#3](https://github.com/AliAlmasi/vless-cf-worker/pull/3#issuecomment-2209470853) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
 <!--END_SECTION:activity-->
 
 </details>
