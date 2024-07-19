@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/howto-verify/pull/1) in [AliAlmasi/howto-verify](https://github.com/AliAlmasi/howto-verify)
-2. ❌ Closed PR [#1](https://github.com/AliAlmasi/login-form/pull/1) in [AliAlmasi/login-form](https://github.com/AliAlmasi/login-form)
-3. ❌ Closed PR [#1](https://github.com/AliAlmasi/greenseed/pull/1) in [AliAlmasi/greenseed](https://github.com/AliAlmasi/greenseed)
+1. 🗣 Commented on [#1588](https://github.com/FredrikNoren/ungit/issues/1588#issuecomment-2237454305) in [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit)
+2. 🎉 Merged PR [#1](https://github.com/AliAlmasi/howto-verify/pull/1) in [AliAlmasi/howto-verify](https://github.com/AliAlmasi/howto-verify)
+3. ❌ Closed PR [#1](https://github.com/AliAlmasi/login-form/pull/1) in [AliAlmasi/login-form](https://github.com/AliAlmasi/login-form)
 <!--END_SECTION:activity-->
 
 </details>
