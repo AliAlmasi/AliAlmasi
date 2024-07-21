@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#126](https://github.com/davegallant/vpngate/issues/126) in [davegallant/vpngate](https://github.com/davegallant/vpngate)
-2. 🗣 Commented on [#1588](https://github.com/FredrikNoren/ungit/issues/1588#issuecomment-2237454305) in [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit)
-3. 🎉 Merged PR [#1](https://github.com/AliAlmasi/howto-verify/pull/1) in [AliAlmasi/howto-verify](https://github.com/AliAlmasi/howto-verify)
+1. 🗣 Commented on [#126](https://github.com/davegallant/vpngate/issues/126#issuecomment-2241633601) in [davegallant/vpngate](https://github.com/davegallant/vpngate)
+2. ❗ Opened issue [#126](https://github.com/davegallant/vpngate/issues/126) in [davegallant/vpngate](https://github.com/davegallant/vpngate)
+3. 🗣 Commented on [#1588](https://github.com/FredrikNoren/ungit/issues/1588#issuecomment-2237454305) in [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit)
 <!--END_SECTION:activity-->
 
 </details>
