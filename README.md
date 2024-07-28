@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/davegallant/vpngate/issues/126#issuecomment-2241633601) in [davegallant/vpngate](https://github.com/davegallant/vpngate)
-2. ❗ Opened issue [#126](https://github.com/davegallant/vpngate/issues/126) in [davegallant/vpngate](https://github.com/davegallant/vpngate)
-3. 🗣 Commented on [#1588](https://github.com/FredrikNoren/ungit/issues/1588#issuecomment-2237454305) in [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit)
+1. ❌ Closed PR [#1](https://github.com/AliAlmasi/azadestan-demo/pull/1) in [AliAlmasi/azadestan-demo](https://github.com/AliAlmasi/azadestan-demo)
+2. ❌ Closed PR [#2](https://github.com/AliAlmasi/iranianshop/pull/2) in [AliAlmasi/iranianshop](https://github.com/AliAlmasi/iranianshop)
+3. 🗣 Commented on [#126](https://github.com/davegallant/vpngate/issues/126#issuecomment-2241633601) in [davegallant/vpngate](https://github.com/davegallant/vpngate)
 <!--END_SECTION:activity-->
 
 </details>
