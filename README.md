@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/pig-game/pull/1) in [AliAlmasi/pig-game](https://github.com/AliAlmasi/pig-game)
-2. 🚀 Published release [Version 1.0](https://github.com/AliAlmasi/iranianshop/releases/tag/1.0) in [AliAlmasi/iranianshop](https://github.com/AliAlmasi/iranianshop)
-3. ❌ Closed PR [#1](https://github.com/AliAlmasi/azadestan-demo/pull/1) in [AliAlmasi/azadestan-demo](https://github.com/AliAlmasi/azadestan-demo)
+1. 🗣 Commented on [#4](https://github.com/PrivacyForge/nashenas/issues/4#issuecomment-2299960991) in [PrivacyForge/nashenas](https://github.com/PrivacyForge/nashenas)
+2. ❗ Opened issue [#4](https://github.com/PrivacyForge/nashenas/issues/4) in [PrivacyForge/nashenas](https://github.com/PrivacyForge/nashenas)
+3. 🎉 Merged PR [#1](https://github.com/AliAlmasi/pig-game/pull/1) in [AliAlmasi/pig-game](https://github.com/AliAlmasi/pig-game)
 <!--END_SECTION:activity-->
 
 </details>
