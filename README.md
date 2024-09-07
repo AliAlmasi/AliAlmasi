@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/parchlinux/meetup/pull/1) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
-2. 🗣 Commented on [#33](https://github.com/aaronryank/fork-bomb/issues/33#issuecomment-2333917222) in [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb)
-3. 🗣 Commented on [#4](https://github.com/PrivacyForge/nashenas/issues/4#issuecomment-2300095931) in [PrivacyForge/nashenas](https://github.com/PrivacyForge/nashenas)
+1. 💪 Opened PR [#2](https://github.com/parchlinux/meetup/pull/2) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
+2. 💪 Opened PR [#1](https://github.com/parchlinux/meetup/pull/1) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
+3. 🗣 Commented on [#33](https://github.com/aaronryank/fork-bomb/issues/33#issuecomment-2333917222) in [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb)
 <!--END_SECTION:activity-->
 
 </details>
