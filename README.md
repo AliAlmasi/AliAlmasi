@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-2336411991) in [almasi/extension](https://github.com/almasi/extension)
-2. 💪 Opened PR [#3](https://github.com/parchlinux/meetup/pull/3) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
-3. 💪 Opened PR [#2](https://github.com/parchlinux/meetup/pull/2) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
+1. 💪 Opened PR [#4](https://github.com/parchlinux/meetup/pull/4) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
+2. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-2336411991) in [almasi/extension](https://github.com/almasi/extension)
+3. 💪 Opened PR [#3](https://github.com/parchlinux/meetup/pull/3) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
 <!--END_SECTION:activity-->
 
 </details>
