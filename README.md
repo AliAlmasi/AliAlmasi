@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/parchlinux/meetup/pull/5) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
-2. 🗣 Commented on [#36](https://github.com/parchlinux/website/pull/36#issuecomment-2380844265) in [parchlinux/website](https://github.com/parchlinux/website)
-3. 💪 Opened PR [#36](https://github.com/parchlinux/website/pull/36) in [parchlinux/website](https://github.com/parchlinux/website)
+1. 💪 Opened PR [#1](https://github.com/parchlinux/apadana/pull/1) in [parchlinux/apadana](https://github.com/parchlinux/apadana)
+2. 💪 Opened PR [#5](https://github.com/parchlinux/meetup/pull/5) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
+3. 🗣 Commented on [#36](https://github.com/parchlinux/website/pull/36#issuecomment-2380844265) in [parchlinux/website](https://github.com/parchlinux/website)
 <!--END_SECTION:activity-->
 
 </details>
