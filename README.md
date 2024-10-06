@@ -1,10 +1,10 @@
 <div align='center'>
-<a href="https://al1almasi.ir"><img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&color=81a1c1&background=2e3440&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+science+student;Junior+web+developer;Proud+Parch+Linux+user+:)"></a>
+<a href="https://al1almasi.ir"><img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&random=true&color=81a1c1&background=2e3440&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+Network+Student;Junior+Web+Developer;Parch+Linux+User" width="550" height="60"></a>
 </div>
 
 # Hey, How you doin'? 👋
 
-I'm Ali 🤠, a beginner web developer 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
+I'm Ali 🤠, a junior web developer and computer networking student at [STVC](https://www.linkedin.com/school/shahid-shamsipour-college/) 🌱, currently living in Tehran. My interests range from technology to music. I'm also interested in software development and photography.
 
 If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
