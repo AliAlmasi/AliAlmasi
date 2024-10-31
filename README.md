@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/schuay/pcurses/issues/9) in [schuay/pcurses](https://github.com/schuay/pcurses)
-2. 💪 Opened PR [#1](https://github.com/parchlinux/apadana/pull/1) in [parchlinux/apadana](https://github.com/parchlinux/apadana)
-3. 💪 Opened PR [#5](https://github.com/parchlinux/meetup/pull/5) in [parchlinux/meetup](https://github.com/parchlinux/meetup)
+1. 💪 Opened PR [#2](https://github.com/parchlinux/apadana/pull/2) in [parchlinux/apadana](https://github.com/parchlinux/apadana)
+2. ❗ Opened issue [#9](https://github.com/schuay/pcurses/issues/9) in [schuay/pcurses](https://github.com/schuay/pcurses)
+3. 💪 Opened PR [#1](https://github.com/parchlinux/apadana/pull/1) in [parchlinux/apadana](https://github.com/parchlinux/apadana)
 <!--END_SECTION:activity-->
 
 </details>
