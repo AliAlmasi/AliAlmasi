@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/parchlinux/website/pull/38) in [parchlinux/website](https://github.com/parchlinux/website)
-2. 💪 Opened PR [#2](https://github.com/parchlinux/apadana/pull/2) in [parchlinux/apadana](https://github.com/parchlinux/apadana)
-3. ❗ Opened issue [#9](https://github.com/schuay/pcurses/issues/9) in [schuay/pcurses](https://github.com/schuay/pcurses)
+1. 🗣 Commented on [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150#issuecomment-2494762445) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
+2. 🔒 Closed issue [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
+3. ❗ Opened issue [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
 <!--END_SECTION:activity-->
 
 </details>
