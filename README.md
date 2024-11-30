@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150#issuecomment-2494762445) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
-2. 🔒 Closed issue [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
-3. ❗ Opened issue [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
+1. 💪 Opened PR [#1](https://github.com/MahanRajabi80/Bafo/pull/1) in [MahanRajabi80/Bafo](https://github.com/MahanRajabi80/Bafo)
+2. 🗣 Commented on [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150#issuecomment-2494762445) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
+3. 🔒 Closed issue [#150](https://github.com/omid/Persian-Calendar-for-Gnome-Shell/issues/150) in [omid/Persian-Calendar-for-Gnome-Shell](https://github.com/omid/Persian-Calendar-for-Gnome-Shell)
 <!--END_SECTION:activity-->
 
 </details>
