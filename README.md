@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AliAlmasi/date-counter/pull/1) in [AliAlmasi/date-counter](https://github.com/AliAlmasi/date-counter)
-2. 💪 Opened PR [#1](https://github.com/AliAlmasi/date-counter/pull/1) in [AliAlmasi/date-counter](https://github.com/AliAlmasi/date-counter)
-3. 💪 Opened PR [#1](https://github.com/MahanRajabi80/Bafo/pull/1) in [MahanRajabi80/Bafo](https://github.com/MahanRajabi80/Bafo)
+1. 🗣 Commented on [#174](https://github.com/nikitasius/Telegraher/issues/174#issuecomment-2510238554) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
+2. 🔒 Closed issue [#174](https://github.com/nikitasius/Telegraher/issues/174) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
+3. 🎉 Merged PR [#1](https://github.com/AliAlmasi/date-counter/pull/1) in [AliAlmasi/date-counter](https://github.com/AliAlmasi/date-counter)
 <!--END_SECTION:activity-->
 
 </details>
