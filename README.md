@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/nikitasius/Telegraher/issues/174#issuecomment-2510238554) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
-2. 🔒 Closed issue [#174](https://github.com/nikitasius/Telegraher/issues/174) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
-3. 🎉 Merged PR [#1](https://github.com/AliAlmasi/date-counter/pull/1) in [AliAlmasi/date-counter](https://github.com/AliAlmasi/date-counter)
+1. ❗ Opened issue [#13](https://github.com/amir1376/ab-download-manager-browser-integration/issues/13) in [amir1376/ab-download-manager-browser-integration](https://github.com/amir1376/ab-download-manager-browser-integration)
+2. 🗣 Commented on [#174](https://github.com/nikitasius/Telegraher/issues/174#issuecomment-2510238554) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
+3. 🔒 Closed issue [#174](https://github.com/nikitasius/Telegraher/issues/174) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
 <!--END_SECTION:activity-->
 
 </details>
