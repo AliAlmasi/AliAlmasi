@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/MDarvishi5124/Arad/issues/10) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
-2. ❗ Opened issue [#13](https://github.com/amir1376/ab-download-manager-browser-integration/issues/13) in [amir1376/ab-download-manager-browser-integration](https://github.com/amir1376/ab-download-manager-browser-integration)
-3. 🗣 Commented on [#174](https://github.com/nikitasius/Telegraher/issues/174#issuecomment-2510238554) in [nikitasius/Telegraher](https://github.com/nikitasius/Telegraher)
+1. 🗣 Commented on [#10](https://github.com/MDarvishi5124/Arad/issues/10#issuecomment-2566890079) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
+2. 🔒 Closed issue [#10](https://github.com/MDarvishi5124/Arad/issues/10) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
+3. ❗ Opened issue [#10](https://github.com/MDarvishi5124/Arad/issues/10) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
 <!--END_SECTION:activity-->
 
 </details>
