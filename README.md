@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/MDarvishi5124/Arad/issues/10#issuecomment-2566890079) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
-2. 🔒 Closed issue [#10](https://github.com/MDarvishi5124/Arad/issues/10) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
-3. ❗ Opened issue [#10](https://github.com/MDarvishi5124/Arad/issues/10) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
+1. 🗣 Commented on [#1](https://github.com/AliAlmasi/npx-alialmasi/pull/1#issuecomment-2570832503) in [AliAlmasi/npx-alialmasi](https://github.com/AliAlmasi/npx-alialmasi)
+2. 💪 Opened PR [#1](https://github.com/AliAlmasi/npx-alialmasi/pull/1) in [AliAlmasi/npx-alialmasi](https://github.com/AliAlmasi/npx-alialmasi)
+3. 🗣 Commented on [#10](https://github.com/MDarvishi5124/Arad/issues/10#issuecomment-2566890079) in [MDarvishi5124/Arad](https://github.com/MDarvishi5124/Arad)
 <!--END_SECTION:activity-->
 
 </details>
