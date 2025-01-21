@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11388](https://github.com/handsontable/handsontable/pull/11388) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
-2. ❗ Opened issue [#1](https://github.com/MahanRajabi80/MahanRajabi23.github.io/issues/1) in [MahanRajabi80/MahanRajabi23.github.io](https://github.com/MahanRajabi80/MahanRajabi23.github.io)
-3. 🗣 Commented on [#1](https://github.com/AliAlmasi/npx-alialmasi/pull/1#issuecomment-2570832503) in [AliAlmasi/npx-alialmasi](https://github.com/AliAlmasi/npx-alialmasi)
+1. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2603181147) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
+2. 💪 Opened PR [#11388](https://github.com/handsontable/handsontable/pull/11388) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
+3. ❗ Opened issue [#1](https://github.com/MahanRajabi80/MahanRajabi23.github.io/issues/1) in [MahanRajabi80/MahanRajabi23.github.io](https://github.com/MahanRajabi80/MahanRajabi23.github.io)
 <!--END_SECTION:activity-->
 
 </details>
