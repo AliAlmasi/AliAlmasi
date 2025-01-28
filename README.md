@@ -58,11 +58,11 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 
 <li><a href='https://fa.note.al1almasi.ir/telegram-v2ray-collector'>نحوه استفاده از TelegramV2rayCollector<a></li>
 
+<li><a href='https://note.al1almasi.ir/telegram-v2ray-collector'>How to use YeBeKhe&#39;s Telegram V2ray Collector<a></li>
+
 <li><a href='https://fa.note.al1almasi.ir/rtl8821ce-wireless-card-fix-on-ubuntu'>رفع خطای کارت وای‌فای Rtl8821ce در لینوکس دبیان/اوبونتو &lpar;و سایر توزیع‌های مبتنی بر دبیان/اوبونتو&rpar;<a></li>
 
 <li><a href='https://fa.note.al1almasi.ir/easy-vless-config-with-cf-worker'>ساخت آسان کانفیگ وی‌لس با ورکر کلاودفلر<a></li>
-
-<li><a href='https://fa.note.al1almasi.ir/unforce-safesearch'>جستجوی ایمن گوگل را دور بزنید.<a></li>
 <!-- BLOG-POST-LIST:END -->
 </div>
 </details>
