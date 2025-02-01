@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/AliAlmasi/vless-cf-worker/issues/6#issuecomment-2615550945) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-2. 🔒 Closed issue [#6](https://github.com/AliAlmasi/vless-cf-worker/issues/6) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
-3. ❗ Opened issue [#1](https://github.com/LocalShare/docs/issues/1) in [LocalShare/docs](https://github.com/LocalShare/docs)
+1. 🚀 Published release [1.6.0](https://github.com/AliAlmasi/newtab/releases/tag/1.6.0) in [AliAlmasi/newtab](https://github.com/AliAlmasi/newtab)
+2. 🗣 Commented on [#6](https://github.com/AliAlmasi/vless-cf-worker/issues/6#issuecomment-2615550945) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
+3. 🔒 Closed issue [#6](https://github.com/AliAlmasi/vless-cf-worker/issues/6) in [AliAlmasi/vless-cf-worker](https://github.com/AliAlmasi/vless-cf-worker)
 <!--END_SECTION:activity-->
 
 </details>
