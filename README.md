@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2649844613) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
-2. ❗ Opened issue [#58571](https://github.com/freeCodeCamp/freeCodeCamp/issues/58571) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-3. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2628938012) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
+1. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2650548683) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
+2. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2649844613) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
+3. ❗ Opened issue [#58571](https://github.com/freeCodeCamp/freeCodeCamp/issues/58571) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 <!--END_SECTION:activity-->
 
 </details>
