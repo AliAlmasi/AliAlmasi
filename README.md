@@ -1,5 +1,5 @@
 <div align='center'>
-<a href="https://al1almasi.ir"><img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&random=true&color=81a1c1&background=2e3440&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+Network+Student;Junior+Web+Developer;Parch+Linux+User" width="550" height="60"></a>
+<a href="https://al1almasi.ir"><img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&random=true&color=81a1c1&background=2e3440&center=true&vCenter=true&width=550&height=60&lines=Ali+Almasi;Computer+Network+Student;Junior+Web+Developer" width="550" height="60"></a>
 </div>
 
 # Hey, How you doin'? 👋
