@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2650630208) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
-2. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2650548683) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
-3. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2649844613) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
+1. 🔓 Reopened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
+2. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-2660490912) in [almasi/extension](https://github.com/almasi/extension)
+3. 🗣 Commented on [#11388](https://github.com/handsontable/handsontable/pull/11388#issuecomment-2650630208) in [handsontable/handsontable](https://github.com/handsontable/handsontable)
 <!--END_SECTION:activity-->
 
 </details>
