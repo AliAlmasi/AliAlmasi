@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/AliAlmasi/AliAlmasi/pull/2) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
-2. 🔓 Reopened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
-3. 🗣 Commented on [#1](https://github.com/almasi/extension/issues/1#issuecomment-2660490912) in [almasi/extension](https://github.com/almasi/extension)
+1. ❌ Closed PR [#1](https://github.com/MahanRajabi80/Bafo/pull/1) in [MahanRajabi80/Bafo](https://github.com/MahanRajabi80/Bafo)
+2. ❌ Closed PR [#2](https://github.com/AliAlmasi/AliAlmasi/pull/2) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
+3. 🔓 Reopened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
 <!--END_SECTION:activity-->
 
 </details>
