@@ -43,8 +43,8 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MahanRajabi80/Bafo/pull/1) in [MahanRajabi80/Bafo](https://github.com/MahanRajabi80/Bafo)
-2. ❌ Closed PR [#2](https://github.com/AliAlmasi/AliAlmasi/pull/2) in [AliAlmasi/AliAlmasi](https://github.com/AliAlmasi/AliAlmasi)
+1. ❗ Opened issue [#54](https://github.com/sajjadmrx/btime-desktop/issues/54) in [sajjadmrx/btime-desktop](https://github.com/sajjadmrx/btime-desktop)
+2. ❌ Closed PR [#1](https://github.com/MahanRajabi80/Bafo/pull/1) in [MahanRajabi80/Bafo](https://github.com/MahanRajabi80/Bafo)
 3. 🔓 Reopened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
 <!--END_SECTION:activity-->
 
