@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AliAlmasi/8-magic-api/pull/2) in [AliAlmasi/8-magic-api](https://github.com/AliAlmasi/8-magic-api)
-2. 💪 Opened PR [#2](https://github.com/AliAlmasi/8-magic-api/pull/2) in [AliAlmasi/8-magic-api](https://github.com/AliAlmasi/8-magic-api)
-3. 🔓 Reopened issue [#1](https://github.com/almasi/extension/issues/1) in [almasi/extension](https://github.com/almasi/extension)
+1. 💪 Opened PR [#3](https://github.com/8-Magic/8-magic-api/pull/3) in [8-Magic/8-magic-api](https://github.com/8-Magic/8-magic-api)
+2. 🎉 Merged PR [#2](https://github.com/AliAlmasi/8-magic-api/pull/2) in [AliAlmasi/8-magic-api](https://github.com/AliAlmasi/8-magic-api)
+3. 💪 Opened PR [#2](https://github.com/AliAlmasi/8-magic-api/pull/2) in [AliAlmasi/8-magic-api](https://github.com/AliAlmasi/8-magic-api)
 <!--END_SECTION:activity-->
 
 </details>
