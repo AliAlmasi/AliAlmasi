@@ -43,9 +43,9 @@ If you’d like to get in touch, you can run on your terminal `npx alialmasi` or
 <summary><h3>Recent activities on GitHub :octocat:</h3></summary>
  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/8-Magic/upptime/issues/2) in [8-Magic/upptime](https://github.com/8-Magic/upptime)
-2. 🗣 Commented on [#2](https://github.com/8-Magic/upptime/issues/2#issuecomment-3124663975) in [8-Magic/upptime](https://github.com/8-Magic/upptime)
-3. ❗ Opened issue [#2](https://github.com/8-Magic/upptime/issues/2) in [8-Magic/upptime](https://github.com/8-Magic/upptime)
+1. 🗣 Commented on [#3](https://github.com/8-Magic/8-magic-api/pull/3#issuecomment-3148549650) in [8-Magic/8-magic-api](https://github.com/8-Magic/8-magic-api)
+2. 🗣 Commented on [#4](https://github.com/8-Magic/8-magic-api/issues/4#issuecomment-3148546860) in [8-Magic/8-magic-api](https://github.com/8-Magic/8-magic-api)
+3. 🔒 Closed issue [#4](https://github.com/8-Magic/8-magic-api/issues/4) in [8-Magic/8-magic-api](https://github.com/8-Magic/8-magic-api)
 <!--END_SECTION:activity-->
 
 </details>
